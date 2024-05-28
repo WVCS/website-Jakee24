@@ -1,3 +1,40 @@
 body {
-
+background-color: darkblue;
+}
+h1{
+  font-size: 400%;
+  color: orange;
+  text-decoration: underline;
+  text-decoration-style: straight;
+  font-family: "Papyrus";
+}
+h3{
+  text-decoration: underline;
+  text-decoration-style: straight;
+  font-family: "Papyrus";
+  font-size: 250%;
+  color: orange;
+}
+img{
+  height: 250px;
+  border-style: ridge;
+  border-color: orange;
+}
+ul{
+  text-align: center;
+  list-style-type: none;
+  font-family: "Lucida Handwriting";
+  position: fixed;
+}
+li{
+  float: left;
+}
+li a{
+  padding: 25px;
+  color: orange;
+  border-style: dashed;
+  background-color: #536a8f;
+}
+li a:hover{
+  background-color: black;
 }
